@@ -19,7 +19,7 @@ Two virtual adult populations were configured in PK-Sim with age-dependent physi
 These trends align with known age-related physiological changes and validate the model behavior.
 
 ## Files
-- PK-Sim model: [Elder vs Younger Ibuprofen Decomposition](model/Elder_vs_Younger_Ibuprofen_Decomposition.pksim5)
+- PK-Sim model: [PK-Sim Model File](model/Elder%20vs%20Younger%20Ibuprofen%20Decomposition.pksim5)
 - Concentration–time plot: [Concentration plot](figure/image.png)
 
 ## Notes
