@@ -20,7 +20,7 @@ These trends align with known age-related physiological changes and validate the
 
 ## Files
 - PK-Sim model: `model/Elder_vs_Younger_Ibuprofen.pksim5`
-- Concentration–time plot: `figures/concentration_time_plot.png`
+- Concentration–time plot: `figure/image.png`
 
 ## Notes
 This project was completed as an individual academic exercise to demonstrate familiarity with **population-based pharmacokinetic modeling** using PK-Sim.
