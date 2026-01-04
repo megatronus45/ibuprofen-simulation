@@ -26,5 +26,5 @@ These trends align with known age-related physiological changes and validate the
 This project was completed as an individual academic exercise to demonstrate familiarity with **population-based pharmacokinetic modeling** using PK-Sim.
 
 ## Author
-Numair Syed (with UW supervisor Yicui Zhang)
+### Numair Syed (with UW supervisor Yicui Zhang)
 
